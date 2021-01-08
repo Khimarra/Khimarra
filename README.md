@@ -9,6 +9,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a professional 3D artist for video games! I learned to code because I wanted to learn more about the game pipeline, but ended up loving programming too, so now I'm looking for work as a Frontend Web Developer!
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khimarra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Khimarra/Khimarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
