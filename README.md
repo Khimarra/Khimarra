@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an app based on The X-Effect!
-- 🌱 I’m currently learning everything I possibly can. 
+- 🔭 I’m currently working [The X-Effect](https://thexeffect.netlify.app/)!
+- 🌱 I’m currently learning as much as I can about JavaScript and React. 
 - 👯 I’m looking to collaborate on anything anyone is willing to share with me!
 - 🤔 I’m looking for help with focusing my skill-building to make it easier to find a job.
 - 💬 Ask me about CSS!
